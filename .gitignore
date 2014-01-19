@@ -1,0 +1,3 @@
+# keep my sublime project and workspace files out of the repo!
+*.sublime-project
+*.sublime-workspace
