@@ -17,6 +17,7 @@ header {
 }
 header h1 {
   float: left;
+  margin: 0 1em;
   font-size: 16px;
 }
 header ul {
